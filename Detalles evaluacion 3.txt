@@ -1,0 +1,16 @@
+Grupo:
+-Diego Garay
+-Esteban Tupiño
+
+Asignatura:
+-Desarrollo de videojuegos.
+
+Detalles:
+-El juego fue desarrollado en GNU/Linux por lo que el ejecutable probablemente
+no funciona en Windows, es necesario hacer la build instalando las dependencias requeridas
+por unity en Windows una vez abierto el proyecto, lo cual no deberia de tomar mucho tiempo,
+debido a esto se ha adjuntado un video .mkv para demostrar el funcionamiento correcto del juego.
+
+-Hay 3 niveles y una pantalla de victoria.
+-Al perder (caer) el jugador  volvera al principio del nivel.
+-Para moverse las teclas son W,A,S,D, Space.
